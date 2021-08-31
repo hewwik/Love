@@ -111,11 +111,13 @@ a{
 	border-radius:4px;
 	line-height:40px;
 	text-align:center;
+	color:#FF82AB;
 }
 .title-lord{
 	margin-top:250px;
 	width:180px;
 	margin-left:90px;
+	color:#FF82AB;
 }
 .subtitle-lord{
 	width:360px;
@@ -181,7 +183,7 @@ a{
 }
 .btn-page-lord:hover{
 	box-shadow:0 5px rgba(234,99,40,.4), 0 0 30px 20px rgba(0,0,0,.2);
-	background:#a30808;
+	background:#FF82AB;
 	color:white;
 }
 .box-video-lord{
